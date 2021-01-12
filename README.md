@@ -1,6 +1,6 @@
 # To-Do-List
 
-In this project I use basics of SQLAlchemy and SQLLite data management.
+In this project I use basics of SQLAlchemy and SQLite data management.
 
 # Create database
 To create database I've used `create_engine()` method where `todo.db` is file name:
